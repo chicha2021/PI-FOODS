@@ -1,0 +1,18 @@
+
+.detail {
+    background-image: url(https://th.bing.com/th/id/R.a6dca6f211cdb13c6bfc9c1fe91a34c5?rik=ltbAp7fVp%2fofbA&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1800px; 
+    background-attachment: fixed;
+    background-size: cover;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div-detail {
+    max-width: 60%;
+    text-align: center;
+    color: rgb(241, 233, 224);
+}
+

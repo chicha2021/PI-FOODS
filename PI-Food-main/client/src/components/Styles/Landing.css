@@ -1,0 +1,12 @@
+.landing-detail {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(https://th.bing.com/th/id/R.a6dca6f211cdb13c6bfc9c1fe91a34c5?rik=ltbAp7fVp%2fofbA&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1900px; 
+    background-attachment: fixed;
+    background-size: cover;
+    color: hsl(278, 100%, 2%);
+    text-align:center;
+    font-size: x-large;
+}

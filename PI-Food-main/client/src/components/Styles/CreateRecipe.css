@@ -1,0 +1,57 @@
+
+.conteiner-create {
+    background-image: url(https://s1.1zoom.me/b5050/466/Hamburger_French_fries_Vegetables_Black_background_540048_3840x2400.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1800px; 
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+.detail-form {
+  padding: 50px;
+  max-width: 400px;
+  background-color: #b1acac;
+  margin:  auto;
+  border-radius: 20px;
+}
+
+form label {
+    margin: 50%;
+    color: black;
+    margin-top: 20px;
+}
+
+form select {
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+form button {
+	display: block;
+	background-color: #d38e35;
+	padding: 5px 30px 5px 30px;
+	border-radius: 10px;
+	font-size: 1em; 
+	color: 	white;
+    font-family: "Roboto", sans-serif;
+    margin-top: 20px;
+    margin-left: 28%;
+    
+}
+
+.colour {
+    color: rgba(197, 46, 46, 0.852);
+}
+
+.btn-form {
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btn-delete {
+    background-color: brown;
+}
