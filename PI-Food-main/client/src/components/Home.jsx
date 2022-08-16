@@ -29,7 +29,7 @@ export function Home() {
     function handleFilterDiets(e){
         e.preventDefault()
         dispatch(filterByDiets(e.target.value));
-        
+        setPagActual(1);
     }
     function handleFilterScore(e){
         e.preventDefault()
